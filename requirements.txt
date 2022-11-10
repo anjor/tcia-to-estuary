@@ -1,0 +1,4 @@
+estuary_client
+requests
+pandas
+pestuary
